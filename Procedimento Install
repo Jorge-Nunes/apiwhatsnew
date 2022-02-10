@@ -47,7 +47,7 @@ vim /opt/traccar/conf/traccar.xml
 {"destino": "{phone}","mensagem": "{message}", "token": "ab12cd34ef56"}
 </entry>
 
-SÓ SEGUIR A RECEITA QUE NÃO TEM ERRO
+É SÓ SEGUIR A RECEITA QUE NÃO TEM ERRO
 USEM A INSTANCIA DISPONIVEL GRATUITA NA OCI COM OL8
 DEPOIS DE CRIAR A INSTANCIA É LOGAR COM PUTTY E IR PARA O ABRAÇO
 FUI!!!!
